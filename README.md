@@ -99,7 +99,7 @@ To view all available options run:
 
 # Screen Shoot
 
-[![ScreenShoot](https://raw.githubusercontent.com/kennedy69/kickthemout/master/kickthemout.png)
+[![ScreenShoot](https://raw.githubusercontent.com/kennedy69/kickthemout/master/KICK.png)
 
 
 
