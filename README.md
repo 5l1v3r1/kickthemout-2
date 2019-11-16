@@ -121,6 +121,6 @@ It is built for educational purposes *only*. If you choose to use it otherwise, 
 
 # License
 
-Copyright (c) 2017-18 by [FERDI S KENNEDY](https://instagram.com/frdy_an).Some rights reserved.
+Copyright (c) 2019 by [FERDI S KENNEDY](https://instagram.com/frdy_an).Some rights reserved.
 
 KickThemOut is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the [license file](https://raw.githubusercontent.com/kennedy69/kickthemout/master/LICENSE).
